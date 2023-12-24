@@ -264,7 +264,13 @@ hr {
     margin: 20px 0 30px;
 }
 
-.input-text, .input-email, textarea {
+.connect-img{
+    margin-right: 20px;
+}
+
+.input-text,
+.input-email,
+textarea {
     font-size: 16px;
     width: 461px;
     border-radius: 10px;
@@ -274,7 +280,8 @@ hr {
     background: var(--White-Color, #FFF);
 }
 
-.input-text, .input-email {
+.input-text,
+.input-email {
     height: 64px;
 }
 
